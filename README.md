@@ -1,4 +1,5 @@
 # Mining-Strava
-Simple Python scripts to collect Strava data and plot the results
+Python scripts to collect and plot Strava cycling data.
 
-Discussed in detail [here](https://ocfnash.wordpress.com/2014/05/25/mining-the-strava-data/)
+The code itself is rather ugly but you may care to look at the results
+[here](http://olivernash.org/2014/05/25/mining-the-strava-data/).
